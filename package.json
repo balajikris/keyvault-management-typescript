@@ -1,0 +1,21 @@
+{
+    "name": "keyvault-management-typescript",
+    "description": "This sample demonstrates how to manage key vaults using a typescript client.",
+    "version": "0.1.0",
+    "main": "./out/src/index.js",
+    "dependencies": {
+        "adal-node": "^0.1.22",
+        "azure-graph": "^2.0.0-preview",
+        "azure-keyvault": "^2.0.0-preview",
+        "azure-arm-authorization": "^4.0.0-preview",
+        "azure-arm-resource": "^2.0.0-preview",
+        "azure-arm-keyvault": "^1.0.0-preview",
+        "moment": "^2.18.1",
+        "ms-rest": "^2.0.0",
+        "ms-rest-azure": "^2.0.0"
+    },
+    "devDependencies": {
+        "eslint": "*",
+        "@types/node": "*"
+    }
+}
